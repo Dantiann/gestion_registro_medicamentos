@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wformsdrogueriatres", "wformsdrogueriatres\wformsdrogueriatres.csproj", "{1A2EB6CF-F981-49FD-B9B3-07BABD7765EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2EB6CF-F981-49FD-B9B3-07BABD7765EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2EB6CF-F981-49FD-B9B3-07BABD7765EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2EB6CF-F981-49FD-B9B3-07BABD7765EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2EB6CF-F981-49FD-B9B3-07BABD7765EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D604AB09-3065-413D-89FD-CA68FD55BE20}
+	EndGlobalSection
+EndGlobal

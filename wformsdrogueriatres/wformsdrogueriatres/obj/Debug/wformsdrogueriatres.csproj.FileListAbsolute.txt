@@ -1,0 +1,21 @@
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\bin\Debug\wformsdrogueriatres.exe.config
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\bin\Debug\wformsdrogueriatres.exe
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\bin\Debug\wformsdrogueriatres.pdb
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.frmProductos.resources
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.Properties.Resources.resources
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.exe
+C:\Users\ALEXANDER\source\repos\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\bin\Debug\wformsdrogueriatres.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\bin\Debug\wformsdrogueriatres.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\bin\Debug\wformsdrogueriatres.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.frmProductos.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsdrogueriatres\wformsdrogueriatres\obj\Debug\wformsdrogueriatres.pdb
